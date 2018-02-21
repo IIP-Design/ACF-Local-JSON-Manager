@@ -1,5 +1,5 @@
 {
-    "name": "usstatedept/america-acf-local-json-manager",
+    "name": "iip-design/america-acf-local-json-manager",
     "type": "wordpress-plugin",
     "description" : "A Wordpress plugin that syncs ACF local json forms to/from multiple save and load points.",
     "authors": [
